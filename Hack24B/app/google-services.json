@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "209703950035",
+    "project_id": "hack24b-75672",
+    "storage_bucket": "hack24b-75672.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209703950035:android:351d817944473611002626",
+        "android_client_info": {
+          "package_name": "com.example.hack24b"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy9AzO7FQhgFL1vRlIAIpMaPj2DESVyyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
